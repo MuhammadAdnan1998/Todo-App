@@ -87,6 +87,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact Information
 
-Your Name - your.email@example.com
+Muhammad Adnan - adnanshaikh84482@gmail.com
 
-Project Link: [https://github.com/your-username/Todo-App](https://github.com/your-username/Todo-App)
+Project Link: [https://github.com/MuhammadAdnan1998/Todo-App](https://github.com/your-username/Todo-App)
